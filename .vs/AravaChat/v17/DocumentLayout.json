@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|c:\\users\\user\\desktop\\codcode\\c#\\asp.net\\chatarava\\aravachat\\aravachat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|solutionrelative:aravachat\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|c:\\users\\user\\desktop\\codcode\\c#\\asp.net\\chatarava\\aravachat\\aravachat\\dal\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|solutionrelative:aravachat\\dal\\datalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|c:\\users\\user\\desktop\\codcode\\c#\\asp.net\\chatarava\\aravachat\\aravachat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|solutionrelative:aravachat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|c:\\users\\user\\desktop\\codcode\\c#\\asp.net\\chatarava\\aravachat\\aravachat\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|solutionrelative:aravachat\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|c:\\users\\user\\desktop\\codcode\\c#\\asp.net\\chatarava\\aravachat\\aravachat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|solutionrelative:aravachat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|c:\\users\\user\\desktop\\codcode\\c#\\asp.net\\chatarava\\aravachat\\aravachat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|solutionrelative:aravachat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|c:\\users\\user\\desktop\\codcode\\c#\\asp.net\\chatarava\\aravachat\\aravachat\\views\\home\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{46EB7705-8455-4ACB-8534-BAAC07E81C1D}|AravaChat\\AravaChat.csproj|solutionrelative:aravachat\\views\\home\\allusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Program.cs",
+              "RelativeDocumentMoniker": "AravaChat\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Program.cs",
+              "RelativeToolTip": "AravaChat\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:59:06.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "AravaChat\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "AravaChat\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T12:54:47.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "AravaChat\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Models\\Message.cs",
+              "RelativeToolTip": "AravaChat\\Models\\Message.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:48:34.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Views\\Home\\AllUsers.cshtml",
+              "RelativeDocumentMoniker": "AravaChat\\Views\\Home\\AllUsers.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Views\\Home\\AllUsers.cshtml",
+              "RelativeToolTip": "AravaChat\\Views\\Home\\AllUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-05T11:33:06.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AravaChat\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AravaChat\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwBEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T10:53:48.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AravaChat\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\Models\\User.cs",
+              "RelativeToolTip": "AravaChat\\Models\\User.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:24:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataLayer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\DAL\\DataLayer.cs",
+              "RelativeDocumentMoniker": "AravaChat\\DAL\\DataLayer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\codcode\\c#\\ASP.NET\\ChatArava\\AravaChat\\AravaChat\\DAL\\DataLayer.cs",
+              "RelativeToolTip": "AravaChat\\DAL\\DataLayer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:23:29.297Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
